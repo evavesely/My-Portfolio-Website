@@ -4,14 +4,13 @@ import {AiFillFilePdf} from 'react-icons/ai'
 import {BsStars} from 'react-icons/bs'
 import Image from "next/image"
 import ppic from '../public/PPic.png'
-import {fairyDustCursor} from "cursor-effects"
-
-new fairyDustCursor()
+import Script from "next/script"
 
 export default function Home() {
   return (
     <>
       <div>
+      <Script src="https://unpkg.com/cursor-effects@latest/dist/browser.js" onLoad={() => {new cursoreffects.fairyDustCursor()}}></Script>
       <main className="bg-pink-50 px-10 md:px-10 lg:px-20 dark:bg-violet-900">
         <section className=" bg-pink-50 min-h-screen dark:bg-violet-900">
           <Navbar />
