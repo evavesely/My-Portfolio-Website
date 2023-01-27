@@ -5,6 +5,9 @@ import {BsStars} from 'react-icons/bs'
 import Image from "next/image"
 import ppic from '../public/PPic.png'
 
+import {fairyDustCursor} from "cursor-effects"
+new fairyDustCursor()
+
 export default function Home() {
   return (
     <>

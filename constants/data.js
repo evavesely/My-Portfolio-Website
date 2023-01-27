@@ -28,7 +28,7 @@ const UserData = {
           title: "Student",
           company: "Princeton University",
           year: "2020-2024",
-          desc: "I&apos;m pursuing an A.B. degree in Computer Science with a certificate in Statistics and Machine Learning. In my free time I write for a publication called Nassau Weekly and work as a barista at a student-run coffee shop :)",
+          desc: "I'm pursuing an A.B. degree in Computer Science with a certificate in Statistics and Machine Learning. In my free time I write for a publication called Nassau Weekly and work as a barista at a student-run coffee shop :)",
         },
         {
           title: "Makerspace Member",
