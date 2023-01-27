@@ -27,7 +27,7 @@ export default function Home() {
             </h1>
 
             <p className="text-md text-justify leading-8 md:text-xl dark:text-violet-200">
-            I worked in a team of five students to develop a web app for students to discover spaces on campus as a final project for my COS333 (Advanced Programming) class. The app allows students to search and filter for a space that fits their needs, add a new space to the website, review a space they've been to, and favorite a space to view it on their profile later.
+            I worked in a team of five students to develop a web app for students to discover spaces on campus as a final project for my COS333 (Advanced Programming) class. The app allows students to search and filter for a space that fits their needs, add a new space to the website, review a space they&apos;ve been to, and favorite a space to view it on their profile later.
             <br></br>
             <br></br>
             I was mainly on the backend, and my main contributions were:
@@ -42,7 +42,7 @@ export default function Home() {
             <br></br>
             <li>Developing the APIs that would be used by the frontend for search and review capabilities</li>
             <br></br>
-            <li>And finally, writing database functions using SQLAlchemy which allow API calls to manipulate our SQL tables (which are hosted on ElephantSQL). This allowed for functionalities like posting a review, adding a space, or updating a space's average rating based on a posted review</li>
+            <li>And finally, writing database functions using SQLAlchemy which allow API calls to manipulate our SQL tables (which are hosted on ElephantSQL). This allowed for functionalities like posting a review, adding a space, or updating a space&apos;s average rating based on a posted review</li>
             </ul>
 
             <h1 className="font-semibold text-md text-justify py-5 leading-8 md:text-xl dark:text-violet-200">
@@ -53,7 +53,7 @@ export default function Home() {
             <br></br>
             <br></br>
             In addition, I had never worked in a group on a CS project before (only with partners) and found it to be a really enjoyable experience! Everyone was helpful and eager to collaborate, and the way we organized our team into frontend and backend was very efficient. 
-            Overall, it was super cool to see everyone's different knowledge bases come together to form one cohesive final product. 
+            Overall, it was super cool to see everyone&apos;s different knowledge bases come together to form one cohesive final product. 
             </p>
           </div>
         </section>

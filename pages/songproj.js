@@ -30,12 +30,12 @@ export default function Home() {
             <p className="text-md text-justify leading-8 md:text-xl dark:text-violet-200">
             This was a project developed throughout the entire semester of my SML312 (Research Projects in Data Science) class. My research question was whether it was possible to predict the popularity of a song using its acoustic features alone. For this project, 
             I followed the data science life cycle by finding my own datasets, performing the necessary data cleaning and exploration, building baseline models, and optimizing my models with techniques like regularization and hyperparameter tuning. 
-            I used several Python libraries including NumPy, pandas, and sklearn's classification models.
+            I used several Python libraries including NumPy, pandas, and sklearn&apos;s classification models.
             <br></br>
             <br></br>
             While it has been proven possible to predict a song’s popularity based on factors like its initial debut success and an artist’s social media presence, it is more useful to predict a song’s success independent of any existing popularity, before it is even released.
-            This is what motivated my research question, and why I selected only the song's release year (in addition to its acoustic elements) as my training features.
-            I used two datasets, both of which had acoustic data on thousands of songs collected using Spotify's API. One of the datasets uses the number of recent plays (which I assume is based on Spotify plays) to calculate popularity and the other uses data from past weekly Billboard Hot-100 lists. 
+            This is what motivated my research question, and why I selected only the song&apos;s release year (in addition to its acoustic elements) as my training features.
+            I used two datasets, both of which had acoustic data on thousands of songs collected using Spotify&apos;s API. One of the datasets uses the number of recent plays (which I assume is based on Spotify plays) to calculate popularity and the other uses data from past weekly Billboard Hot-100 lists. 
             </p>
             <h1 className="font-semibold text-md text-justify py-5 leading-8 md:text-xl dark:text-violet-200">
             My Process

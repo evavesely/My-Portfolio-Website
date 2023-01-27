@@ -22,8 +22,8 @@ export default function Home() {
               <div className="text-center p-5">
                 <h3 className="text-2xl -mt-10 mb-5 font-medium text-pink-900 py-2  md:text-3xl dark:text-violet-300">Computer Science Major at Princeton University</h3>
                 <p className="text-md max-w-2xl mx-auto text-pink-800 py-3 leading-8 md:text-xl dark:text-violet-300">
-                  Hey! My name is Eva and I'm a Junior majoring in CS with a minor in Statistics and Machine Learning at Princeton University. 
-                  In my free time I like to read, write, do yoga, and work as a barista at my school's student run coffee shop :)
+                  Hey! My name is Eva and I&apos;m a Junior majoring in CS with a minor in Statistics and Machine Learning at Princeton University. 
+                  In my free time I like to read, write, do yoga, and work as a barista at my school&apos;s student run coffee shop :)
                 </p>
               </div>
               <div className="cursor-pointer text-5xl flex gap-16 justify-center dark:text-violet-50">
