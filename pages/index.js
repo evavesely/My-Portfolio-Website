@@ -32,7 +32,7 @@ export default function Home() {
                 <a href="https://www.linkedin.com/in/eva-vesely-17a275204/">
                   <AiFillLinkedin className="hover:text-6xl" />
                 </a>
-                <a>
+                <a href="https://github.com/evavesely">
                   <AiFillGithub className="hover:text-6xl" />
                 </a>
                 <a href="https://drive.google.com/file/d/1VUHL5nbnKMk1zi_MVFc1TDIkxQ9o1Kha/view?usp=share_link">
