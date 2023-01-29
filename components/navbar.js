@@ -17,7 +17,7 @@ const Navbar = () => {
       <Link href=".">
         <RiHomeHeartFill className="cursor-pointer text-4xl hover:text-5xl dark:text-violet-50" />
       </Link>
-      <ul className="flex items-center">
+      <ul className="flex items-center pl-5">
         <li>
           <BsFillMoonStarsFill onClick={() => setTheme(theme === "dark" ? "light" : "dark")} className="cursor-pointer text-2xl hover:text-3xl dark:text-violet-50"/>
         </li>

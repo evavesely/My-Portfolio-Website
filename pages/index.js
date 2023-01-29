@@ -14,16 +14,16 @@ export default function Home() {
       <main className="bg-pink-50 px-10 md:px-10 lg:px-20 dark:bg-violet-900">
         <section className=" bg-pink-50 min-h-screen dark:bg-violet-900">
           <Navbar />
-          <div className="lg:flex lg:gap-16 mt-36">
+          <div className="lg:flex lg:h-screen lg:items-center lg:max-2xl:-mt-20 lg:gap-16">
             <div>
               <div className="p-5 flex gap-16 justify-center dark:text-violet-50">
                 <BsStars className="text-3xl -mr-12"/>
-                <h2 className="text-5xl font-medium font-burtons md:text-6xl"> Eva Vesely </h2>
+                <h2 className="text-4xl font-medium font-burtons sm:text-6xl"> Eva Vesely </h2>
                 <BsStars className="text-3xl -ml-12"/>
               </div>
               <div className="text-center p-5">
-                <h3 className="text-2xl -mt-10 mb-5 font-medium text-pink-900 py-2  md:text-3xl dark:text-violet-300">Computer Science Major at Princeton University</h3>
-                <p className="text-md max-w-2xl mx-auto text-pink-800 py-3 leading-8 md:text-xl dark:text-violet-300">
+                <h3 className="text-xl -mt-10 mb-5 font-medium text-pink-900 py-2 sm:text-3xl dark:text-violet-300">Computer Science Major at Princeton University</h3>
+                <p className="text-md max-w-2xl mx-auto text-pink-800 py-3 leading-8 sm:text-xl dark:text-violet-300">
                   Hey! My name is Eva and I&apos;m a Junior majoring in CS with a minor in Statistics and Machine Learning at Princeton University. 
                   In my free time I like to read, write, do yoga, and work as a barista at my school&apos;s student run coffee shop :)
                 </p>

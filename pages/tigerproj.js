@@ -12,13 +12,13 @@ export default function Home() {
           <Navbar />
           
           <div className="p-5 flex gap-16 justify-center">
-            <BsStars className="text-3xl text-pink-900 dark:text-violet-50"/>
-            <h3 className="text-3xl text-pink-900 font-burtons text-center md:text-4xl dark:text-violet-50">Space Tiger</h3>
-            <BsStars className="text-3xl text-pink-900 dark:text-violet-50"/>
+            <BsStars className="text-3xl text-pink-900 -mr-12 dark:text-violet-50"/>
+            <h3 className="text-2xl sm:text-3xl text-pink-900 font-burtons text-center md:text-4xl dark:text-violet-50">Space Tiger</h3>
+            <BsStars className="text-3xl text-pink-900 -ml-12 dark:text-violet-50"/>
           </div>
 
           <div className="text-center max-w-xl mx-auto p-5">
-            <h3 className="text-2xl font-medium mb-10 md:text-3xl dark:text-violet-300">A website for students to find and review spaces on campus</h3>
+            <h3 className="text-xl sm:text-2xl font-medium mb-10 md:text-3xl dark:text-violet-300">A website for students to find and review spaces on campus</h3>
             <div className="h-auto">
                 <Image src={tiger3} alt="" className="rounded-lg object-cover shadow-lg dark:shadow-violet-700"/>
             </div>
