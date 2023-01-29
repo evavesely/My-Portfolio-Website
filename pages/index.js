@@ -14,11 +14,11 @@ export default function Home() {
       <main className="bg-pink-50 px-10 md:px-10 lg:px-20 dark:bg-violet-900">
         <section className=" bg-pink-50 min-h-screen dark:bg-violet-900">
           <Navbar />
-          <div className="lg:flex lg:h-screen lg:items-center lg:max-2xl:-mt-20 lg:gap-16">
+          <div className="lg:flex lg:h-screen lg:items-center lg:-mt-20 lg:gap-16">
             <div>
               <div className="p-5 flex gap-16 justify-center dark:text-violet-50">
                 <BsStars className="text-3xl -mr-12"/>
-                <h2 className="text-4xl font-medium font-burtons sm:text-6xl"> Eva Vesely </h2>
+                <h2 className="text-3xl font-medium font-burtons sm:text-6xl"> Eva Vesely </h2>
                 <BsStars className="text-3xl -ml-12"/>
               </div>
               <div className="text-center p-5">
