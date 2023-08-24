@@ -18,7 +18,7 @@ export default function Home() {
           </div>
 
           <div className="text-center max-w-xl mx-auto p-5">
-            <h3 className="text-xl sm:text-2xl font-medium mb-10 md:text-3xl dark:text-violet-300">A website for students to find and review spaces on campus</h3>
+            <h3 className="text-md font-medium sm:text-xl mb-10 md:text-2xl dark:text-violet-300">A website for students to find and review spaces on campus.</h3>
             <div className="h-auto">
                 <Image src={tiger3} alt="" className="rounded-lg object-cover shadow-lg dark:shadow-violet-700"/>
             </div>
