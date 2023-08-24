@@ -1,6 +1,12 @@
 const UserData = {
     experience: [
         {
+          title: "Developer Intern - Digital Automation Team",
+          company: "First Citizens Bank",
+          year: "2023",
+          desc: "Shadowed the digital automation team for eight weeks, assisted with implementing a robotics solution in Pega Robot Studio to automate the redaction of sensitive data from 28,000 internal documents, and established synthetic monitoring and alerting for fifteen key banking applications in the Community Associative Banking Department.",
+        },
+        {
           title: "Engineering/IT Intern",
           company: "Rocker Lawyer",
           year: "2022",

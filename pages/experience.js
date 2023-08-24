@@ -9,8 +9,8 @@ export default function Home() {
         <section className=" bg-pink-50 min-h-screen dark:bg-violet-900">
           <Navbar />
           <h1 className="text-4xl -mt-10 mb-10 text-pink-900 font-burtons text-center md:text-5xl dark:text-violet-50">My Experience</h1>
-          <p className="text-md -mt-5 mb-5 text-center max-w-lg mx-auto text-pink-800 leading-8 md:text-l dark:text-violet-200">Some skills I&apos;ve picked up along the way include: JavaScript, Java, Python (NumPy, pandas, sklearn, PyTorch), R, C, Jira, Confluence, Slack,
-          GitHub, SQL/ SQLite/ SQLAlchemy, Flask, Node.js, HTML/CSS, and REST API</p>
+          <p className="text-md -mt-5 mb-5 text-center max-w-lg mx-auto text-pink-800 leading-8 md:text-l dark:text-violet-200">Some skills I&apos;ve picked up along the way include: JavaScript, Java, Python (NumPy, pandas, sklearn, PyTorch), R, C, Pega Robot Studio, Jira, Confluence, Azure DevOps,
+          Agile, GitHub, SQL/ SQLite/ SQLAlchemy, Flask, Node.js, HTML/CSS, and REST API</p>
           <div>
             <div className="grid grid-cols-1 max-w-xl mx-auto pt-10">
               {/* Experience card */}

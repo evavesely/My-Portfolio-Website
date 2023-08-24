@@ -35,7 +35,7 @@ export default function Home() {
                 <a href="https://github.com/evavesely">
                   <AiFillGithub className="hover:text-6xl" />
                 </a>
-                <a href="https://drive.google.com/file/d/1VUHL5nbnKMk1zi_MVFc1TDIkxQ9o1Kha/view?usp=share_link">
+                <a href="https://drive.google.com/file/d/17EJ_JuzGgtBcr16S-2-TeQq1NlnLAOBB/view?usp=sharing">
                   <AiFillFilePdf className="hover:text-6xl" />
                 </a>
               </div>
